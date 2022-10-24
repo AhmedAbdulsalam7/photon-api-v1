@@ -4,10 +4,10 @@
 class Database{
  
     // specify your own database credentials
-    private $host = "127.0.0.1";
-    private $db_name = "db-auth";
-    private $username = "root";
-    private $password = "";
+    private $host = "sql6.freesqldatabase.com";
+    private $db_name = "sql6528786";
+    private $username = "sql6528786";
+    private $password = "aF9DZGsJTZ";
     public $conn;
  
     // get the database connection
